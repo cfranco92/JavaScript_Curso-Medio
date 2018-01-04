@@ -1,3 +1,5 @@
+// Se crean dos puntos (objetos), con esto queremos ver la estructura básica de un objeto
+
 const p1 = {
   x: 0,
   y: 4
