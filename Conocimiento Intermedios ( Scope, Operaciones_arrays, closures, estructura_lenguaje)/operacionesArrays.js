@@ -20,6 +20,7 @@ function suma(...numeros) {
 // Map recibe una función que se va a ejecutar por cada uno de los elementos
 const dobles = (...numeros) => numeros.map( numero => numero * 2)
 
+// Encontramos números pares de un array
 const pares = (...numeros) => numeros.filter( numero => numero % 2 == 0)
 
 suma (4, 8, 12, 8954, 7, 9)
