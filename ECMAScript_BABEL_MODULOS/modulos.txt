@@ -1,0 +1,5 @@
+Se usa para:
+ * Encapsulamiento.
+ * Dependencias.
+
+Un modulo es un paquete de código, ejemplo angular, react, jquery.
