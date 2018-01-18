@@ -1,0 +1,5 @@
+Es un transpilador de nuevos elementos de ECMA.
+
+Debemos tener instalado Node y NPM
+
+http://babeljs.io/
